@@ -1,0 +1,45 @@
+---
+title: "data_analysis"
+output: html_document
+date: "2025-10-08"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Rodent-flea
+
+```{r}
+# Load data
+df <- read.csv('~/Documents/LPSM/Data/Ecological_data/Rodent_flea/DoublePhyloData.csv')
+```
+
+```{r}
+# Preview data
+df[1:10,1:10]
+```
+```{r}
+
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
